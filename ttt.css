@@ -1,0 +1,17 @@
+.tr1 {
+	height: 1000px ;
+}
+.bt1 {
+	width: 100%;
+	border: solid black 10px;
+	display: grid;
+	grid-template-columns: 60% 39%;
+}
+.bot {
+	border: solid black 2px;
+}
+.bt2 {
+	width: 100%;
+	border: solid black 10px;
+	display: grid;
+	grid-template-columns: 60% 39%;

@@ -1,0 +1,24 @@
+.img {
+    margin-left: 300px ;
+    margin-right: 300px;
+         }
+.section , .aside {
+    border: solid black;
+     }
+.aside {
+	  text-decoration: underline;
+	  background-image: url("note.jpg");
+	  background-repeat: no-repeat;
+	  }
+.contents{
+	 display: grid;
+	 grid-template-columns: 80% 20% ;
+     border: solid black ; 
+     text-align: center;
+     margin: auto;
+     position: relative;
+    }
+ html {
+ 	margin: auto;
+ 
+ }
